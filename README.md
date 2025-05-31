@@ -1,7 +1,7 @@
 # ✨ About Me: <br>
 Software Developer, with skills in Frontend (HTML, CSS, JavaScript, React) and Backend (Java, SpringBoot, Python, Node.js, SQL).<br>Interests: Web development, full-stack applications.<br>Goal: To transform my skills into practical solutions and contribute to meaningful projects.<br><br> 
 # 🛠️ Technical Skills: <br>
-Languages & Technologies:<br>Frontend: HTML, CSS, JavaScript, React, Vue.js<br>Backend: Java, SpringBoot, Python, Flask, Node.js, Express<br>Databases: SQL (MySQL), MongoDB<br>Tools: Git, GitHub, Vercel, Postmanam <br><br> 
+Languages & Technologies:<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Java, SpringBoot, Node.js, Express<br>Databases: SQL (MySQL), MongoDB<br>Tools: Git, GitHub, Vercel, Postmanam <br><br> 
 # 🌱 Current Projects: <br>
 I am currently working on personal projects where I implement my recent learnings in Java and Spring Boot. I aim to create robust applications that solve real problems and enhance my development skills.<br><br>
 # 🤝 Collaboration: <br>
