@@ -1,8 +1,9 @@
 <h1 align="center">✨ Valentina Vargas Pescara ✨</h1>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="valentina.png" alt="Foto de Valentina" width="250" style="border-radius: 12px;" />
-</p>
+  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" height="200" />
+</div>
 
 <p align="center">
   <em>Software Developer & Dreamer 💖</em>
@@ -10,10 +11,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Lover%20💖;Java%20SpringBoot%20Dev%20🚀;Girls%20who%20code%20write%20the%20future%20🌸&center=true&width=500&height=45&color=FF69B4">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" height="200" />
 </p>
 
 ---
