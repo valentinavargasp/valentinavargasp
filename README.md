@@ -1,6 +1,6 @@
-<h1 align="center">✨ Valentina Vargas ✨</h1>
+<h1 align="center">✨ Valentina Vargas Pescara ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Lover%20💖;Java%20SpringBoot%20Dev%20🚀;Girls%20who%20code%20write%20the%20future%20🌸&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Lover%20💖;Java%20SpringBoot%20Dev%20🚀;Girls%20who%20code%20write%20the%20future%20🌸&center=true&width=500&height=45&color=FF69B4">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 💁‍♀️ About Me
 
 Soy Valentina, una desarrolladora de software apasionada por construir experiencias digitales con impacto y estilo.  
-💻 Me especializo en **Frontend** (HTML, CSS, JS, React) y **Backend** (Java, Spring Boot, Node.js, Python).  
+💻 Me especializo en **Frontend** (HTML, CSS, JS, React) y **Backend** (Java, Spring Boot, Node.js).  
 🌸 Mi objetivo: transformar ideas en productos reales que sean útiles, inclusivos y visualmente encantadores.  
 
 ---
@@ -34,7 +34,7 @@ Soy Valentina, una desarrolladora de software apasionada por construir experienc
 
 ### 🌱 En qué estoy trabajando ahora
 
-Desarrollo proyectos personales donde aplico mis conocimientos más recientes en **Java y Spring Boot**, junto a diseño frontend con **React** y **Tailwind CSS**, inspirados en mi portfolio visual.
+Desarrollo proyectos personales donde aplico mis conocimientos más recientes en **Java y Spring Boot**, junto a diseño frontend con **React**
 
 ---
 
@@ -62,9 +62,9 @@ Me entusiasma colaborar en proyectos:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentinavargasp&theme=rose_pine&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinavargasp&theme=rose_pine&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinavargasp&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valentinavargasp&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinavargasp&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinavargasp&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,4 +73,3 @@ Me entusiasma colaborar en proyectos:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=valentinavargasp&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
-
