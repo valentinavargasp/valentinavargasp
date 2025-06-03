@@ -1,4 +1,13 @@
 <h1 align="center">✨ Valentina Vargas Pescara ✨</h1>
+
+<p align="center">
+  <img src="valentina.png" alt="Foto de Valentina" width="250" style="border-radius: 12px;" />
+</p>
+
+<p align="center">
+  <em>Software Developer & Dreamer 💖</em>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Lover%20💖;Java%20SpringBoot%20Dev%20🚀;Girls%20who%20code%20write%20the%20future%20🌸&center=true&width=500&height=45&color=FF69B4">
 </p>
@@ -34,7 +43,7 @@ Soy Valentina, una desarrolladora de software apasionada por construir experienc
 
 ### 🌱 En qué estoy trabajando ahora
 
-Desarrollo proyectos personales donde aplico mis conocimientos más recientes en **Java y Spring Boot**, junto a diseño frontend con **React**
+Desarrollo proyectos personales donde aplico mis conocimientos más recientes en **Java y Spring Boot**, junto a diseño frontend con **React**.
 
 ---
 
