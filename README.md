@@ -1,24 +1,76 @@
-# ✨ About Me: <br>
-Software Developer, with skills in Frontend (HTML, CSS, JavaScript, React) and Backend (Java, SpringBoot, Python, Node.js, SQL).<br>Interests: Web development, full-stack applications.<br>Goal: To transform my skills into practical solutions and contribute to meaningful projects.<br><br> 
-# 🛠️ Technical Skills: <br>
-Languages & Technologies:<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Java, SpringBoot, Node.js, Express<br>Databases: SQL (MySQL), MongoDB<br>Tools: Git, GitHub, Vercel, Postmanam <br><br> 
-# 🌱 Current Projects: <br>
-I am currently working on personal projects where I implement my recent learnings in Java and Spring Boot. I aim to create robust applications that solve real problems and enhance my development skills.<br><br>
-# 🤝 Collaboration: <br>
-I am interested in collaborating on projects that challenge my skills and allow me to apply what I have learned, especially in the area of Java. If you have a project in mind or want to discuss ideas, I would love to connect!<br><br>
-# 📫 Contact: <br>
-You can reach me via email at: valentinapescarav@gmail.com. I’m open to discussions about development, collaboration, and job opportunities in the software development field.<br>
+<h1 align="center">✨ Valentina Vargas ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Lover%20💖;Java%20SpringBoot%20Dev%20🚀;Girls%20who%20code%20write%20the%20future%20🌸&center=true&width=500&height=45">
+</p>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valentinapescarav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avalentinavargas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devvalentech) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=valentinavargasp&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=valentinavargasp&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinavargasp&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" height="200" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=valentinavargasp&icon=2&color=0)](https://visitcount.itsvg.in)
+
+### 💁‍♀️ About Me
+
+Soy Valentina, una desarrolladora de software apasionada por construir experiencias digitales con impacto y estilo.  
+💻 Me especializo en **Frontend** (HTML, CSS, JS, React) y **Backend** (Java, Spring Boot, Node.js, Python).  
+🌸 Mi objetivo: transformar ideas en productos reales que sean útiles, inclusivos y visualmente encantadores.  
+
+---
+
+### 🧠 Tech Stack
+
+```bash
+💖 Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind, SASS
+⚙️ Backend: Java, Spring Boot, Node.js, Express, Flask, Python
+🗄️ Bases de Datos: MySQL, MongoDB, Firebase
+🧰 Herramientas: Git, GitHub, Figma, Vercel, Postman, Canva
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,nodejs,mysql,mongodb,figma,git,github,py,bootstrap" />
+</p>
+
+---
+
+### 🌱 En qué estoy trabajando ahora
+
+Desarrollo proyectos personales donde aplico mis conocimientos más recientes en **Java y Spring Boot**, junto a diseño frontend con **React** y **Tailwind CSS**, inspirados en mi portfolio visual.
+
+---
+
+### 🤝 ¿Colaboramos?
+
+Me entusiasma colaborar en proyectos:
+- con impacto real,
+- en los que pueda aportar desde frontend o backend,
+- donde haya espacio para la creatividad y el aprendizaje.
+
+💌 ¡Conectemos si tenés una idea o estás armando un equipo!
+
+---
+
+### 💌 Contacto
+
+📬 valentinapescarav@gmail.com  
+🌐 [Portfolio Web](https://valentinavargasp.vercel.app)  
+📎 [LinkedIn](https://linkedin.com/in/avalentinavargas)  
+💖 [Instagram](https://instagram.com/valentinapescarav)  
+🖤 [X / Twitter](https://x.com/devvalentech)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valentinavargasp&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinavargasp&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinavargasp&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
+
+---
+
+<p align="center">✨ Girls who code write the future ✨</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=valentinavargasp&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
 
